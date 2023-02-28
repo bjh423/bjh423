@@ -26,3 +26,4 @@
 ```
 printf("dasdasdasdsa");
 ```
+<img src='화면 캡처 2023-02-28 164925.png' width = 300px height = 200px>
