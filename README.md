@@ -1,16 +1,28 @@
+
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=bjh423)](https://github.com/bjh423)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bjh423&layout=compact)](https://github.com/bjh423/githubreadme-stats)
+
 ### Hi there 👋
+# 1
+## 2
+### 3
+#### 4
+##### 5
+###### 6
+---
+**bold**
+*italic* <br>
+~~strike~~ <br>
+<hr>
 
-<!--
-**bjh423/bjh423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 1
+* 2
+- 1
+- 2
 
-Here are some ideas to get you started:
+[네이버]www.naver.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+printf("dasdasdasdsa");
+```
